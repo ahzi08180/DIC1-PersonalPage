@@ -1,5 +1,7 @@
 # I Hsuan Chu | Personal Portfolio
 
+**[🌐 Live Demo](https://ahzi08180.github.io/DIC1-PersonalPage/)**
+
 Welcome to my personal corner of the web!
 
 ## Description
